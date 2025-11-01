@@ -16,3 +16,5 @@
  The `TestKeyPadPane.java` file shows a quick demo of using this custom Pane.  This should not just be copied and pasted for the assignment.  It is only intended as an example.
 ading README.md…]()
 
+# Auto detect text files and perform LF normalization
+* text=auto
